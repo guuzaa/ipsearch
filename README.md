@@ -105,4 +105,4 @@ Apart from that, we use the net/ip package to parse IP address.
 ## 4. Licence
 
 This project is MIT licensed.
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](./LICENSE.txt) file for details.
