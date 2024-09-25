@@ -121,7 +121,7 @@ func testV6CIDRSearch(t *testing.T, search *ipsearch.IPv6Search) {
 		find bool
 	}
 	var testCIDRDataList = []testCIDRData{
-		{"2a00:5700::44", "2a00:5700::/32", true},
+		{"2a00:47a0::44", "2a00:47a0::/32", true},
 		{"2001:da8::33", "", false},
 		{"2001:da8:3::1", "", false},
 	}
